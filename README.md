@@ -64,7 +64,7 @@ The system supports real-time monitoring via the Apache Spark Thrift Server usin
 <img width="1919" height="1016" alt="image" src="https://github.com/user-attachments/assets/e512acec-38ed-4cd0-ad6e-769b03467e24" />
 
 linking with the page :
-<img width="1270" height="712" alt="image" src="https://github.com/user-attachments/assets/e80e07e5-3fa2-4dc3-a7a1-c82dbf446430" />
+<img width="1272" height="713" alt="image" src="https://github.com/user-attachments/assets/39220e37-9c2d-4126-b7d5-a991cf680de4" />
 
 ### Dashboard Insights
 - Global Monitoring : KPI cards for threat indices, alert levels, and critical flags.
