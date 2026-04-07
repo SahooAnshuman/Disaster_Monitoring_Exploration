@@ -1,1 +1,1 @@
-# Disaster-Alert-System-Kafka-Spark-DeltaLake-Hive-
+# Disaster Alert System
