@@ -55,6 +55,14 @@ The pipeline refines raw sensor data into actionable business intelligence acros
 
 The system supports real-time monitoring via the Apache Spark Thrift Server using DirectQuery mode for live insights.
 
+### Power BI Desktop
+<img width="1917" height="1018" alt="Screenshot 2026-04-07 211215" src="https://github.com/user-attachments/assets/209976a0-ea38-475b-9ee3-7a6a720a5ef7" />
+
+### Disaster Monitering Dashboard
+<img width="1170" height="660" alt="image" src="https://github.com/user-attachments/assets/5e45aea9-6697-4a0e-ab58-0cccefe46d2f" />
+
+
+
 ### Dashboard Insights
 - Global Monitoring : KPI cards for threat indices, alert levels, and critical flags.
 - Station Performance : Comparison of response times and event contributions by station type.
