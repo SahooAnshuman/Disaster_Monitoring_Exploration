@@ -51,13 +51,13 @@ The pipeline refines raw sensor data into actionable business intelligence acros
  - bi_dim_region : Mapping of regional risk levels and geographic types.
  - bi_dim_station : Detailed monitoring station metadata and response times.
 
-## Power BI Monitoring Dashboard
+
 
 The system supports real-time monitoring via the Apache Spark Thrift Server using DirectQuery mode for live insights.
 
 ### Power BI Desktop
 <img width="1917" height="1018" alt="Screenshot 2026-04-07 211215" src="https://github.com/user-attachments/assets/209976a0-ea38-475b-9ee3-7a6a720a5ef7" />
-
+## Power BI Monitoring Dashboard
 <img width="1173" height="658" alt="image" src="https://github.com/user-attachments/assets/12aa85dc-6b24-4d7b-b7c9-be0026d302ee" />
 
 ### Tooltip [region_type]
