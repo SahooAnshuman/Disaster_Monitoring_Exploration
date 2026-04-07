@@ -13,3 +13,28 @@ The project utilizes the Medallion Architecture to process data through Bronze, 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black">
 </p>
+
+Apache Kafka: Real-time event streaming backbone
+Apache Spark: Structured Streaming for multi-layer data processing
+Delta Lake: Reliable lakehouse storage with ACID transactions
+Hive Metastore: Centralized metadata and schema management
+Power BI: Interactive dashboards for real-time monitoring.
+
+## Real-Time Data Simulation
+
+Before ingestion, a Python-based producer simulates a network of sensors streaming a mix of 70% clean and 30% dirty data to mimic real-world challenges.
+
+
+
+
+
+### Simulation Highlights
+Geographic Regions: Coastal, Hillside, Forest, Urban, Riverbank, Desert
+Disaster Types: Earthquake, Flood, Wildfire, Tsunami, Landslide, Cyclone, Volcano
+Dirty Data Injection: Includes null values, negative indices, duplicates, and corrupt JSON to test pipeline resilience.
+
+
+
+
+
+
