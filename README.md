@@ -39,8 +39,8 @@ The pipeline refines raw sensor data into actionable business intelligence acros
 -  Preserves full original schema and raw JSON for auditability.
 
  ### Silver Layer (Quality & Enrichment)
- Applies data quality checks and deduplication.
- Feature Engineering: Creates threat_band (Low to Catastrophic), critical_flag for emergency triggers, and night_flag for time-sensitive response.
+ - Applies data quality checks and deduplication.
+ - Feature Engineering: Creates threat_band (Low to Catastrophic), critical_flag for emergency triggers, and night_flag for time-sensitive response.
  ### Gold Layer (Dimensional Modeling)
  Produces optimized Star Schema tables: fact_disaster, dim_region, and dim_station
  Structured for high-performance analytical querying
