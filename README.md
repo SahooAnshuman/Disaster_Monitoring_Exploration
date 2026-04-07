@@ -25,16 +25,8 @@ Power BI: Interactive dashboards for real-time monitoring.
 Before ingestion, a Python-based producer simulates a network of sensors streaming a mix of 70% clean and 30% dirty data to mimic real-world challenges.
 
 
-
-
-
-### Simulation Highlights
--Geographic Regions: Coastal, Hillside, Forest, Urban, Riverbank, Desert
--Disaster Types: Earthquake, Flood, Wildfire, Tsunami, Landslide, Cyclone,Volcano.
--Dirty Data Injection: Includes null values, negative indices, duplicates, and corrupt JSON to test pipeline resilience.
-
-
-
-
-
+### Dataset Highlights
+- Geographic Regions: Coastal, Hillside, Forest, Urban, Riverbank, Desert  
+- Disaster Types: Earthquake, Flood, Wildfire, Tsunami, Landslide, Cyclone,Volcano.
+- Dirty Data Injection: Includes null values, negative indices, duplicates, and corrupt JSON to test pipeline resilience.
 
